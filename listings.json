@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy 1BR Rental",
+    "address": "123 Main Street, Memphis, TN",
+    "price": 1200,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 700,
+    "lat": 35.1495,
+    "lng": -90.049,
+    "image": "https://picsum.photos/seed/rental1/800/600",
+    "description": "Comfortable one-bedroom rental in a convenient location.",
+    "amenities": [
+      "Washer/Dryer",
+      "Parking",
+      "Pet Friendly"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Spacious 2BR Home",
+    "address": "45 Oak Avenue, Southaven, MS",
+    "price": 1500,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1100,
+    "lat": 34.98898,
+    "lng": -90.0126,
+    "image": "https://picsum.photos/seed/rental2/800/600",
+    "description": "Spacious two-bedroom home with modern features.",
+    "amenities": [
+      "Garage",
+      "Backyard",
+      "Central Air"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Modern 3BR Family Home",
+    "address": "78 Elm Street, Southaven, MS",
+    "price": 1800,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1500,
+    "lat": 34.991,
+    "lng": -90.01,
+    "image": "https://picsum.photos/seed/rental3/800/600",
+    "description": "Family-friendly home with plenty of living space.",
+    "amenities": [
+      "Garage",
+      "Backyard",
+      "Updated Kitchen"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Affordable 1BR Apartment",
+    "address": "200 River Road, Memphis, TN",
+    "price": 950,
+    "beds": 1,
+    "baths": 1,
+    "sqft": 650,
+    "lat": 35.13,
+    "lng": -90.06,
+    "image": "https://picsum.photos/seed/rental4/800/600",
+    "description": "Affordable apartment near shopping and transportation.",
+    "amenities": [
+      "Parking",
+      "Laundry",
+      "Near Transit"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Luxury 2BR Townhome",
+    "address": "10 Magnolia Drive, Southaven, MS",
+    "price": 2100,
+    "beds": 2,
+    "baths": 2.5,
+    "sqft": 1600,
+    "lat": 34.99,
+    "lng": -89.99,
+    "image": "https://picsum.photos/seed/rental5/800/600",
+    "description": "Beautiful townhome with upgraded finishes.",
+    "amenities": [
+      "Garage",
+      "Patio",
+      "Walk-in Closets"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "3BR Suburban Rental",
+    "address": "9 Maple Lane, Olive Branch, MS",
+    "price": 1750,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1450,
+    "lat": 34.9618,
+    "lng": -89.8295,
+    "image": "https://picsum.photos/seed/rental6/800/600",
+    "description": "Quiet suburban rental with a spacious yard.",
+    "amenities": [
+      "Yard",
+      "Garage",
+      "Central Heat"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sunny 2BR Apartment",
+    "address": "230 Poplar Avenue, Memphis, TN",
+    "price": 1300,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 900,
+    "lat": 35.1495,
+    "lng": -90.05,
+    "image": "https://picsum.photos/seed/rental7/800/600",
+    "description": "Bright apartment close to restaurants and shopping.",
+    "amenities": [
+      "Balcony",
+      "Laundry",
+      "Parking"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "4BR Family Home",
+    "address": "11 Grove Street, Southaven, MS",
+    "price": 2200,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2000,
+    "lat": 34.98,
+    "lng": -90.02,
+    "image": "https://picsum.photos/seed/rental8/800/600",
+    "description": "Large family home with multiple bedrooms and a yard.",
+    "amenities": [
+      "Garage",
+      "Backyard",
+      "Fireplace"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Riverfront 2BR",
+    "address": "400 Riverside Drive, Memphis, TN",
+    "price": 1900,
+    "beds": 2,
+    "baths": 2,
+    "sqft": 1200,
+    "lat": 35.16,
+    "lng": -90.08,
+    "image": "https://picsum.photos/seed/rental9/800/600",
+    "description": "Comfortable two-bedroom rental with scenic surroundings.",
+    "amenities": [
+      "Parking",
+      "Updated Kitchen",
+      "Large Windows"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Compact Studio",
+    "address": "150 Union Avenue, Memphis, TN",
+    "price": 850,
+    "beds": 0,
+    "baths": 1,
+    "sqft": 450,
+    "lat": 35.14,
+    "lng": -90.05,
+    "image": "https://picsum.photos/seed/rental10/800/600",
+    "description": "Simple studio for convenient city living.",
+    "amenities": [
+      "Laundry",
+      "Near Transit",
+      "Utilities Optional"
+    ]
+  }
+]
